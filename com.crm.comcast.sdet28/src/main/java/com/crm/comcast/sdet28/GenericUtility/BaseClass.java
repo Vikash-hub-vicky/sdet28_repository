@@ -33,7 +33,7 @@ import com.crm.comcast.sdet28.objectReprository.LoginPage;
 	//connection to DB
 	System.out.println("conect to DB");
 		}
-	@Parameters("browser")
+	//@Parameters("browser")
 	@BeforeClass(groups = {"smoke","regression"})
 	public void configBc() throws Throwable {
 			

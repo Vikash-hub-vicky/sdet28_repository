@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import com.crm.comcast.sdet28.GenericUtility.BaseClass;
 
-@Listeners(com.crm.comcast.GenericUtilityListenerImpClass.class)
+@Listeners(com.crm.comcast.sdet28.GenericUtility.ListenerImpClass.class)
 public class DemoForTakingScreenShotTest extends BaseClass {
 	@Test
 	public void sample() {
