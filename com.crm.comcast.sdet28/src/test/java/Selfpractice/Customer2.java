@@ -18,7 +18,7 @@ public void customerTest7() {
 @Test(groups = {"regressonTest"})
 public void cutomerTest8() {
 System.out.println("This is reggression");
-	System.out.println("Anuj");
+	System.out.println("Anuj kumar");
 }
 
  	
