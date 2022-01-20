@@ -3,17 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Testng.CreatePurchaseOrderFramTest">
+      <class name="practice.AssertionTest">
         <methods>
-          <include name="confidBs"/>
-          <include name="createPuchaseOrderFram"/>
-          <include name="configAs"/>
-          <include name="configAc"/>
-          <include name="configBc"/>
-          <include name="configAm"/>
-          <include name="configBm"/>
+          <include name="demo"/>
         </methods>
-      </class> <!-- Testng.CreatePurchaseOrderFramTest -->
+      </class> <!-- practice.AssertionTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
