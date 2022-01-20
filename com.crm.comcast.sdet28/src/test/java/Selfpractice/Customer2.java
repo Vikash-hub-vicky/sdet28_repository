@@ -19,7 +19,7 @@ public void customerTest7() {
 public void cutomerTest8() {
 System.out.println("This is reggression");
 	System.out.println("Anuj kumar test");
-	System.out.println("Vikas Singh");
+	System.out.println("Vikas Singh kumar");
 }
 
  	
