@@ -27,7 +27,7 @@ public class AssertionTest {//HARD ASSERTION
 	 
 	 System.out.println("logout from application");
 	 System.out.println("quit the browser");
-	 
+	 System.out.println("quit the browser11");
 	 
 	 
 	 
